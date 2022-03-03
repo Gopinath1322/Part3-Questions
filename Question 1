@@ -61,8 +61,8 @@
 
 9.What are the different ways to create the String Object in java?
 	Two ways to create a String object in java,
-	*By String Literal => String text="Kavinraj S";
-	*By new keyword  => String text=new String("Kavinraj S");
+	*By String Literal => String text="Gopinath";
+	*By new keyword  => String text=new String("Gopinath");
 
 
 10.What is the Difference between .Equals and ==? 
